@@ -1,0 +1,15 @@
+.Odd-Class{
+    background-color: red;
+    font-family:"Verdana","DejaVu Sans","sans-serif";
+}
+#second-element{
+    color: Blue;
+    font-size: 36px;
+}
+#font-size{
+    font-size: 24px;
+}
+.fourth-element{
+    background-color:lightgreen;
+    font-weight:bold
+}
