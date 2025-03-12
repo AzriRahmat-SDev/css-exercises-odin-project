@@ -1,15 +1,19 @@
-.Odd-Class{
-    background-color: red;
-    font-family:"Verdana","DejaVu Sans","sans-serif";
+.class-odd-1, .class-odd-3, .class-odd-5{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#second-element{
-    color: Blue;
-    font-size: 36px;
+
+#id-even{
+    font-size: 48px;
+    color: blue;
 }
-#font-size{
+
+.class-odd-3{
     font-size: 24px;
 }
-.fourth-element{
+
+#id-even-4{
+    font-size: 24px;
+    font-weight: bold;
     background-color:lightgreen;
-    font-weight:bold
 }
